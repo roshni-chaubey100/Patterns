@@ -33,3 +33,15 @@ List of Pattern Questions
 1 2 3 4
 1 2 3 4 5
 ```
+5. [Pattern 05](pattern05.cpp)
+```
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+```
