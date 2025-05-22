@@ -45,3 +45,15 @@ List of Pattern Questions
 * *
 *
 ```
+6. [Pattern 06](pattern06.cpp)
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+```
