@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void pattern02(int n) {
+void pattern(int n) {
     for (int i=1; i<=n; i++) {
         for (int j=1; j<=n; j++) {
             cout<<"* ";
@@ -14,6 +14,6 @@ void pattern02(int n) {
 int main() {
     int n;
     cin>>n;
-    pattern02(n);
+    pattern(n);
     return 0;
 }
