@@ -17,7 +17,7 @@ List of Pattern Questions
 * * * * *
 * * * * *
 ```
-3. [Pattern 03](pattern03.cpp)
+3. Pattern 03: [Solution 1](pattern03_1.cpp), [Solution 2](pattern03_2.cpp)
 ```
 * * * * *
 * * * * 
