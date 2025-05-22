@@ -9,3 +9,11 @@ List of Pattern Questions
 * * * *
 * * * * *
 ```
+2. [Pattern 02](pattern02.cpp)
+```
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+```
