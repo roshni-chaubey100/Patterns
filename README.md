@@ -25,3 +25,11 @@ List of Pattern Questions
 * * 
 * 
 ```
+4. [Pattern 04](pattern04.cpp)
+```
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
