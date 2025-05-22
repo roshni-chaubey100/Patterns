@@ -17,3 +17,11 @@ List of Pattern Questions
 * * * * *
 * * * * *
 ```
+3. [Pattern 03](pattern03.cpp)
+```
+* * * * *
+* * * * 
+* * * 
+* * 
+* 
+```
