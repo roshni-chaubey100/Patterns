@@ -57,3 +57,9 @@ List of Pattern Questions
    * *
     *
 ```
+7. [Pattern 07](pattern07.cpp)
+```
+  *
+ * *
+*   *
+```
