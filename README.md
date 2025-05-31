@@ -107,3 +107,12 @@ List of Pattern Questions
 * * * *
 * * * * *
 ```
+12. [Pattern 12](pattern12.cpp)
+```
+1 1 1 1 1 1
+2 2 2 2 2
+3 3 3 3
+4 4 4
+5 5
+6
+```
