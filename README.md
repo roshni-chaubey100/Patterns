@@ -116,3 +116,10 @@ List of Pattern Questions
 5 5
 6
 ```
+13. [Pattern 13](pattern13.cpp)
+```
+* * * *
+*     *
+*     *
+* * * *
+```
