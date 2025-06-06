@@ -143,3 +143,11 @@ k L m N o
 P q R s T u
 V w X y Z a B 
 ```
+16. [Pattern 16](pattern16.cpp)
+```
+* * * * *
+ *     *
+  *   *
+   * *
+    *
+```
