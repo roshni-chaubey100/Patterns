@@ -162,3 +162,14 @@ C D E F G H
 B C D E F G H
 A B C D E F G H
 ```
+18. [Pattern 18](pattern18.cpp)
+```
+A
+B A
+C B A 
+D C B A
+E D C B A
+F E D C B A
+G F E D C B A
+H G F E D C B A
+```
