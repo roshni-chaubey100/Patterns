@@ -151,3 +151,14 @@ V w X y Z a B
    * *
     *
 ```
+17. [Pattern 17](pattern17.cpp)
+```
+H
+G H
+F G H
+E F G H
+D E F G H
+C D E F G H
+B C D E F G H
+A B C D E F G H
+```
